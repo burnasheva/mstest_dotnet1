@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    
+    <Configurations>Debug;Release;Clean</Configurations>
+    
+    <Platforms>AnyCPU;x64;x86</Platforms>
+
+  </PropertyGroup>
+
+  <ItemGroup/>
+
+</Project>
