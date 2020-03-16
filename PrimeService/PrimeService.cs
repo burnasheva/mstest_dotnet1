@@ -12,7 +12,6 @@ namespace Prime.Services
 		}
 		throw new NotImplementedException("Please create a test first!");
 	}
-    }
-	
+    }	
 }
 
